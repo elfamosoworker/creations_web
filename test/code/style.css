@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    margin-top: 100px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #031321;
+}
+
+a {
+    font-size: 20px;
+    position: relative;
+    display: inline-block;
+    padding: 15px 30px;
+    color: #2196f3;
+    background-color: #031321;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+    overflow: hidden;
+    transition: 0.2s;
+}
+
+
+a:hover {
+    color: #255784;
+    background: #2196f3;
+    box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+}
+
+
+#monimg {
+    width: 300px;
+} 
+
+#txt {
+    font-size: 18px;
+    color: blue;
+}
+
+.hide {
+    visibility: hidden;
+}
