@@ -5,4 +5,4 @@
 
 Dans mon github on peut trouver : 
 - Un mini jeu (impossible à cliquer)
-- Un petit bout de code quand j'apprenais vraiment les bases (test)
+- Un petit bout de code quand j'apprenais les bases (test)
